@@ -1,2 +1,2 @@
 # Hackaton-team-1
- Pruebass autmatizadas de aplicativo web
+ Pruebas automatizadas de aplicativo web
