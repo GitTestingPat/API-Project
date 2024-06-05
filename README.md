@@ -4,6 +4,7 @@
 * **Patricio Andrade Gallardo**
 * **Margot Vargas**
 * **Jorge Sifuentes**
+* **Omar Centeno**
 
 ## Aplicaciones probadas
 
