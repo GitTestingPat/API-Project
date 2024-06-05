@@ -27,9 +27,9 @@ A continuación agregamos un resumen de cada una de las aplicaciones evaluadas.
 | **Repositorio de la API**                | [https://github.com/mwinteringham/restful-booker](https://github.com/mwinteringham/restful-booker)                                             |
 | **Versión de la aplicación**   | 1.0.0                                                                                                                                          |
 | **Entorno de pruebas**         | [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/) <br> Runner: Postman                                            |
-| **Pruebas totales**            | 157                                                                                                                                            |
-| **Pruebas Aprobadas**          | 93                                                                                                                                             |
-| **Pruebas Rechazadas**         | 64                                                                                                                                             |
+| **Pruebas totales**            | 135                                                                                                                                            |
+| **Pruebas Aprobadas**          | 84                                                                                                                                             |
+| **Pruebas Rechazadas**         | 56                                                                                                                                             |
 |  | **Artefactos generados**                                                                                                                                                        |
 | **Suite de Pruebas**  | [Tabla de datos](https://docs.google.com/spreadsheets/d/1bhzcaj9fG-NCW-GmsknI4bBrXJJxXGJ0M0cLtS9jrGI/edit?usp=sharing) | 
 | **Reporte de errores**         | [Ver Reportes](https://qaengineer.atlassian.net/issues/?jql=project+%3D+%22QAC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNTRiZWI1N2U2NGJmNGJkNmFmNzYzNzE3Nzg5MmQ4MWUiLCJwIjoiaiJ9) |
