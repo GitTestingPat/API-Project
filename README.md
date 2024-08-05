@@ -23,7 +23,7 @@ Below is a summary of each of the applications evaluated.
 | **Fail tests**                 | 56                                                                                                                                             |
   
   
-| **Artifacts generates**        |                                                                                                                                                |
+| **Artifacts generated**        |                                                                                                                                                |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Test suites**                | [Data chart](https://docs.google.com/spreadsheets/d/1bhzcaj9fG-NCW-GmsknI4bBrXJJxXGJ0M0cLtS9jrGI/edit?usp=sharing)                             | 
 | **Bug reports**                | [Reports](https://qaengineer.atlassian.net/issues/?jql=project+%3D+%22QAC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNTRiZWI1N2U2NGJmNGJkNmFmNzYzNzE3Nzg5MmQ4MWUiLCJwIjoiaiJ9) |
@@ -43,7 +43,7 @@ Below is a summary of each of the applications evaluated.
 | **Runner**                       | Postman                                                                                                                                        | 
 
 
-| **Artifacts generates**          |                                                                                                                                                |
+| **Artifacts generated**          |                                                                                                                                                |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Bug reports**                  | [Reports](https://qaengineer.atlassian.net/issues/?jql=project+%3D+%22QAC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNjk1ZWU0YjFkN2RlNGIyM2EyOTk2NWYwNGU2ZjRlNjEiLCJwIjoiaiJ9) |
 | **API review process**           | [Documentation](https://docs.google.com/document/d/12aW2aBBTUo98KmlLUaRZgrwJmze0QOX_TW8W4cJB7Jg/edit) |
@@ -61,7 +61,7 @@ For the review of the automation of user registration, performed with Selenium a
 | **Tests environment**            | Chrome (version) 1280 x 720                                                                                                                    |
 
 
-| **Artifacts generates**          |                                                                                                                                                |
+| **Artifacts generated**          |                                                                                                                                                |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Application requirements**     | [Bug-bank-requirements](https://docs.google.com/document/d/1HBblIAao1n_0TzyQMQifG4LY3sLbA5R42k8Eeyh9y50/edit?usp=sharing)                      |                                                                  
 | **Bug reports**                  | [Reports](https://qaengineer.atlassian.net/issues/?jql=project+%3D+%22QAC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNjk1ZWU0YjFkN2RlNGIyM2EyOTk2NWYwNGU2ZjRlNjEiLCJwIjoiaiJ9) |
