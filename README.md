@@ -2,7 +2,7 @@
 
 * [Platzi Fake Store API](https://fakeapi.platzi.com/). API of an ecommerce with a complete suite of endpoints Rest and GraphQL
 * [BugBank](https://github.com/jhonatasmatos/bugbank-ui). Web banking application.
-* [Restful-Booker de Mark Winteringham](https://restful-booker.herokuapp.com/). Booking management API.
+* [Restful-Booker](https://restful-booker.herokuapp.com/). Booking management API.
 
 ## Working guide
 Information and test suites can be found at [this link](https://drive.google.com/drive/folders/1d1MvQSMRiKdNxmBo77W7ZIcrlyKatNZC?usp=sharing) to review the evidence and other materials generated.
