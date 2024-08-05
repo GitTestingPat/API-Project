@@ -14,7 +14,7 @@ Below is a summary of each of the applications evaluated.
 | Type                           | Link                                                                                                                                           |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | **App name**                   | Restful-Booker                                                                                                                                 |
-| **URL name**                   | [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/)                                                                 |
+| **URL**                        | [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/)                                                                 |
 | **API repository**             | [https://github.com/mwinteringham/restful-booker](https://github.com/mwinteringham/restful-booker)                                             |
 | **App version**                | 1.0.0                                                                                                                                          |
 | **Tests environment**          | [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/) <br> Runner: Postman                                            |
@@ -37,7 +37,7 @@ Below is a summary of each of the applications evaluated.
 | Type                             | Link                                                                                                                                           |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | **App name**                     | Platzi Fake Store                                                                                                                              |
-| **URL name**                     | [https://fakeapi.platzi.com/](https://fakeapi.platzi.com/)                                                                                     |     
+| **URL**                          | [https://fakeapi.platzi.com/](https://fakeapi.platzi.com/)                                                                                     |     
 | **App version**                  | 1.1.2                                                                                                                                          |
 | **Tests environment**            | [https://fakeapi.platzi.com/](https://fakeapi.platzi.com/)|
 | **Runner**                       | Postman                                                                                                                                        | 
@@ -55,13 +55,13 @@ For the review of the automation of user registration, performed with Selenium a
 | Type                             | Link                                                                                                                                           |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | **App name**                     | BugBank                                                                                                                                        |
-| **URL name**                     | [https://bugbank.netlify.app/](https://bugbank.netlify.app/)                                                                                   |
+| **URL**                          | [https://bugbank.netlify.app/](https://bugbank.netlify.app/)                                                                                   |
 | **Repository**                   | [https://github.com/jhonatasmatos/bugbank-ui](https://github.com/jhonatasmatos/bugbank-ui)                                                     |
 | **App version**                  | 1.1.2                                                                                                                                          |
 | **Tests environment**            | Chrome (version) 1280 x 720                                                                                                                    |
 
 
-| **Artifacts generates**          |                                                                                                                                                |
+|**Artifacts generates**          |                                                                                                                                                |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Application requirements**     | [Bug-bank-requirements](https://docs.google.com/document/d/1HBblIAao1n_0TzyQMQifG4LY3sLbA5R42k8Eeyh9y50/edit?usp=sharing)                                                                                    
 | **Bug reports**                  | [Reports](https://qaengineer.atlassian.net/issues/?jql=project+%3D+%22QAC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNjk1ZWU0YjFkN2RlNGIyM2EyOTk2NWYwNGU2ZjRlNjEiLCJwIjoiaiJ9) |
