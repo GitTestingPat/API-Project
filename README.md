@@ -1,38 +1,37 @@
-## Aplicaciones probadas
+## Proven applications
 
-* [Platzi Fake Store API](https://fakeapi.platzi.com/). API de un ecommerce con una suite completa de endpoints Rest y GraphQL
-* [BugBank de Jhonatas Matos](https://github.com/jhonatasmatos/bugbank-ui). Aplicación web bancaria.
-* [Restful-Booker de Mark Winteringham](https://restful-booker.herokuapp.com/). API de gestión de reservas.
+* [Platzi Fake Store API](https://fakeapi.platzi.com/). API of an ecommerce with a complete suite of endpoints Rest and GraphQL
+* [BugBank de Jhonatas Matos](https://github.com/jhonatasmatos/bugbank-ui). Web banking application.
+* [Restful-Booker de Mark Winteringham](https://restful-booker.herokuapp.com/). Booking management API.
 
-## ¿Por dónde comenzar?
-Hemos agrupado la información y las suites de pruebas en Google Drive. Te sugerimos visitar [este enlace a Drive](https://drive.google.com/drive/folders/1d1MvQSMRiKdNxmBo77W7ZIcrlyKatNZC?usp=sharing) para revisar las pruebas y otros materiales generados.
+## Working guide
+Information and test suites can be found at [this link](https://drive.google.com/drive/folders/1d1MvQSMRiKdNxmBo77W7ZIcrlyKatNZC?usp=sharing) to review the evidence and other materials generated.
 
-A continuación agregamos un resumen de cada una de las aplicaciones evaluadas.
+Below is a summary of each of the applications evaluated.
 
+## Summary of Restful Booker API Tests
 
-## Resumen de las Pruebas para la API de Restful Booker
-
-| Tipo                           | Enlace                                                                                                                                         |
+| Type                           | Link                                                                                                                                           |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nombre de la aplicación**    | Restful-Booker                                                                                                                                 |
-| **URL de la aplicación**       | [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/)                                                                  |
-| **Repositorio de la API**                | [https://github.com/mwinteringham/restful-booker](https://github.com/mwinteringham/restful-booker)                                             |
-| **Versión de la aplicación**   | 1.0.0                                                                                                                                          |
-| **Entorno de pruebas**         | [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/) <br> Runner: Postman                                            |
-| **Pruebas totales**            | 135                                                                                                                                            |
-| **Pruebas Aprobadas**          | 84                                                                                                                                             |
-| **Pruebas Rechazadas**         | 56                                                                                                                                             |
-|  | **Artefactos generados**                                                                                                                                                        |
-| **Suite de Pruebas**  | [Tabla de datos](https://docs.google.com/spreadsheets/d/1bhzcaj9fG-NCW-GmsknI4bBrXJJxXGJ0M0cLtS9jrGI/edit?usp=sharing) | 
-| **Reporte de errores**         | [Ver Reportes](https://qaengineer.atlassian.net/issues/?jql=project+%3D+%22QAC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNTRiZWI1N2U2NGJmNGJkNmFmNzYzNzE3Nzg5MmQ4MWUiLCJwIjoiaiJ9) |
-| **Imágenes**                   | [Imágenes](https://drive.google.com/drive/folders/1XrytLocfDscafHW5U7_w7kLLK6MUsV1H?usp=drive_link)                                                                                                                                       |
-| **Documentación**              | [https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-UpdateBooking](https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-UpdateBooking)                                    |
-| **Colección de Postman**       | [Descargar](https://drive.google.com/file/d/1OMZl1M7f7KFkpo1vC8jFSlPcNsBaccJj/view?usp=sharing)                                                 |
+| **App name**                   | Restful-Booker                                                                                                                                 |
+| **URL name**                   | [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/)                                                                 |
+| **API repository**             | [https://github.com/mwinteringham/restful-booker](https://github.com/mwinteringham/restful-booker)                                             |
+| **App version**                | 1.0.0                                                                                                                                          |
+| **Tests environment**          | [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/) <br> Runner: Postman                                            |
+| **Total tests**                | 135                                                                                                                                            |
+| **Passed tests**               | 84                                                                                                                                             |
+| **Fail tests**                 | 56                                                                                                                                             |
+| **Artifacts generates**                                                                                                                                                         |
+| **Test suites**                | [Tabla de datos](https://docs.google.com/spreadsheets/d/1bhzcaj9fG-NCW-GmsknI4bBrXJJxXGJ0M0cLtS9jrGI/edit?usp=sharing)                         | 
+| **Bug reports**                | [Ver Reportes](https://qaengineer.atlassian.net/issues/?jql=project+%3D+%22QAC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNTRiZWI1N2U2NGJmNGJkNmFmNzYzNzE3Nzg5MmQ4MWUiLCJwIjoiaiJ9) |
+| **Images**                     | [Imágenes](https://drive.google.com/drive/folders/1XrytLocfDscafHW5U7_w7kLLK6MUsV1H?usp=drive_link)                                                                                                           
+| **Documentation**              | [https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-UpdateBooking](https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-UpdateBooking) |
+| **Postman Collection**         | [Descargar](https://drive.google.com/file/d/1OMZl1M7f7KFkpo1vC8jFSlPcNsBaccJj/view?usp=sharing)                                                 |
 
 
-## Resumen de las Pruebas API: Platzi Fake Store
+## API Test Summary: Platzi Fake Store
 
-| Tipo                             | Enlace                                                                                                                                         |
+| Type                             | Link                                                                                                                                           |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nombre de la aplicación**      | Platzi Fake Store                                                                                                                              |
 | **URL de la aplicación**         | [https://fakeapi.platzi.com/](https://fakeapi.platzi.com/)                                                                                     |
