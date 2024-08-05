@@ -23,7 +23,7 @@ Below is a summary of each of the applications evaluated.
 | **Fail tests**                 | 56                                                                                                                                             |
   
   
-| **Artifacts generates**    
+| **Artifacts generates**        |                                                                                                                                                |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Test suites**                | [Tabla de datos](https://docs.google.com/spreadsheets/d/1bhzcaj9fG-NCW-GmsknI4bBrXJJxXGJ0M0cLtS9jrGI/edit?usp=sharing)                         | 
 | **Bug reports**                | [Ver Reportes](https://qaengineer.atlassian.net/issues/?jql=project+%3D+%22QAC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNTRiZWI1N2U2NGJmNGJkNmFmNzYzNzE3Nzg5MmQ4MWUiLCJwIjoiaiJ9) |
