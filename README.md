@@ -39,7 +39,7 @@ Below is a summary of each of the applications evaluated.
 | **App name**                     | Platzi Fake Store                                                                                                                              |
 | **URL**                          | [https://fakeapi.platzi.com/](https://fakeapi.platzi.com/)                                                                                     |     
 | **App version**                  | 1.1.2                                                                                                                                          |
-| **Tests environment**            | [https://fakeapi.platzi.com/](https://fakeapi.platzi.com/)|
+| **Tests environment**            | [https://fakeapi.platzi.com/](https://fakeapi.platzi.com/)                                                                                     |
 | **Runner**                       | Postman                                                                                                                                        | 
 
 
