@@ -1,11 +1,3 @@
-# ¡Te damos la bienvenida a nuestro repositorio!
-
-## ¿Quienes integramos El Equipo?
-* **Patricio Andrade Gallardo**
-* **Margot Vargas**
-* **Jorge Sifuentes**
-* **Omar Centeno**
-
 ## Aplicaciones probadas
 
 * [Platzi Fake Store API](https://fakeapi.platzi.com/). API de un ecommerce con una suite completa de endpoints Rest y GraphQL
