@@ -61,9 +61,9 @@ For the review of the automation of user registration, performed with Selenium a
 | **Tests environment**            | Chrome (version) 1280 x 720                                                                                                                    |
 
 
-|**Artifacts generates**          |                                                                                                                                                |
+| **Artifacts generates**          |                                                                                                                                                |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Application requirements**     | [Bug-bank-requirements](https://docs.google.com/document/d/1HBblIAao1n_0TzyQMQifG4LY3sLbA5R42k8Eeyh9y50/edit?usp=sharing)                                                                                    
+| **Application requirements**     | [Bug-bank-requirements](https://docs.google.com/document/d/1HBblIAao1n_0TzyQMQifG4LY3sLbA5R42k8Eeyh9y50/edit?usp=sharing)                      |                                                                  
 | **Bug reports**                  | [Reports](https://qaengineer.atlassian.net/issues/?jql=project+%3D+%22QAC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNjk1ZWU0YjFkN2RlNGIyM2EyOTk2NWYwNGU2ZjRlNjEiLCJwIjoiaiJ9) |
 
 
