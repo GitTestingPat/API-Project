@@ -17,7 +17,8 @@ Below is a summary of each of the applications evaluated.
 | **URL**                        | [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/)                                                                 |
 | **API repository**             | [https://github.com/mwinteringham/restful-booker](https://github.com/mwinteringham/restful-booker)                                             |
 | **App version**                | 1.0.0                                                                                                                                          |
-| **Tests environment**          | [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/) <br> Runner: Postman                                            |
+| **Tests environment**          | [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/)                                                                 |
+| **Runner**                     | Postman                                                                                                                                        |
 | **Total tests**                | 135                                                                                                                                            |
 | **Passed tests**               | 84                                                                                                                                             |
 | **Fail tests**                 | 56                                                                                                                                             |
