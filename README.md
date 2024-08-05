@@ -19,9 +19,7 @@ Below is a summary of each of the applications evaluated.
 | **App version**                | 1.0.0                                                                                                                                          |
 | **Tests environment**          | [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/)                                                                 |
 | **Runner**                     | Postman                                                                                                                                        |
-| **Total tests**                | 135                                                                                                                                            |
-| **Passed tests**               | 84                                                                                                                                             |
-| **Fail tests**                 | 56                                                                                                                                             |
+                                                                                                                           
   
   
 | **Artifacts generated**        |                                                                                                                                                |
