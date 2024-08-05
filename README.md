@@ -28,7 +28,7 @@ Below is a summary of each of the applications evaluated.
 | **Bug reports**                | [Reports](https://qaengineer.atlassian.net/issues/?jql=project+%3D+%22QAC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNTRiZWI1N2U2NGJmNGJkNmFmNzYzNzE3Nzg5MmQ4MWUiLCJwIjoiaiJ9) |
 | **Images**                     | [Images](https://drive.google.com/drive/folders/1XrytLocfDscafHW5U7_w7kLLK6MUsV1H?usp=drive_link)                                                                                                           
 | **Documentation**              | [https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-UpdateBooking](https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-UpdateBooking) |
-| **Postman Collection**         | [Download](https://drive.google.com/file/d/1OMZl1M7f7KFkpo1vC8jFSlPcNsBaccJj/view?usp=sharing)                                                 |
+| **API-Collection-Postman.json**         | [Download](https://drive.google.com/file/d/1OMZl1M7f7KFkpo1vC8jFSlPcNsBaccJj/view?usp=sharing)                                                 |
 
 
 ## API Test Summary: Platzi Fake Store
