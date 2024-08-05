@@ -25,40 +25,43 @@ Below is a summary of each of the applications evaluated.
   
 | **Artifacts generates**        |                                                                                                                                                |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Test suites**                | [Tabla de datos](https://docs.google.com/spreadsheets/d/1bhzcaj9fG-NCW-GmsknI4bBrXJJxXGJ0M0cLtS9jrGI/edit?usp=sharing)                         | 
-| **Bug reports**                | [Ver Reportes](https://qaengineer.atlassian.net/issues/?jql=project+%3D+%22QAC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNTRiZWI1N2U2NGJmNGJkNmFmNzYzNzE3Nzg5MmQ4MWUiLCJwIjoiaiJ9) |
-| **Images**                     | [Imágenes](https://drive.google.com/drive/folders/1XrytLocfDscafHW5U7_w7kLLK6MUsV1H?usp=drive_link)                                                                                                           
+| **Test suites**                | [Data chart](https://docs.google.com/spreadsheets/d/1bhzcaj9fG-NCW-GmsknI4bBrXJJxXGJ0M0cLtS9jrGI/edit?usp=sharing)                             | 
+| **Bug reports**                | [Reports](https://qaengineer.atlassian.net/issues/?jql=project+%3D+%22QAC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNTRiZWI1N2U2NGJmNGJkNmFmNzYzNzE3Nzg5MmQ4MWUiLCJwIjoiaiJ9) |
+| **Images**                     | [Images](https://drive.google.com/drive/folders/1XrytLocfDscafHW5U7_w7kLLK6MUsV1H?usp=drive_link)                                                                                                           
 | **Documentation**              | [https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-UpdateBooking](https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-UpdateBooking) |
-| **Postman Collection**         | [Descargar](https://drive.google.com/file/d/1OMZl1M7f7KFkpo1vC8jFSlPcNsBaccJj/view?usp=sharing)                                                 |
+| **Postman Collection**         | [Download](https://drive.google.com/file/d/1OMZl1M7f7KFkpo1vC8jFSlPcNsBaccJj/view?usp=sharing)                                                 |
 
 
 ## API Test Summary: Platzi Fake Store
 
 | Type                             | Link                                                                                                                                           |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nombre de la aplicación**      | Platzi Fake Store                                                                                                                              |
-| **URL de la aplicación**         | [https://fakeapi.platzi.com/](https://fakeapi.platzi.com/)                                                                                     |
-| **Repositorio**                  | -                                                                                                                                              |
-| **Versión de la aplicación**     | 1.1.2                                                                                                                                          |
-| **Entorno de pruebas**           | [https://fakeapi.platzi.com/](https://fakeapi.platzi.com/)|
-| **Runner** | Postman | 
-| | **Artefactos generados**         |                                                                                                                                                |
-| **Reportes de error en Jira**    | [Ver Reportes](https://qaengineer.atlassian.net/issues/?jql=project+%3D+%22QAC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNjk1ZWU0YjFkN2RlNGIyM2EyOTk2NWYwNGU2ZjRlNjEiLCJwIjoiaiJ9) |
-|**Proceso de revisión API**| [Documentación](https://docs.google.com/document/d/12aW2aBBTUo98KmlLUaRZgrwJmze0QOX_TW8W4cJB7Jg/edit) |
+| **App name**                     | Platzi Fake Store                                                                                                                              |
+| **URL name**                     | [https://fakeapi.platzi.com/](https://fakeapi.platzi.com/)                                                                                     |     
+| **App version**                  | 1.1.2                                                                                                                                          |
+| **Tests environment**            | [https://fakeapi.platzi.com/](https://fakeapi.platzi.com/)|
+| **Runner**                       | Postman                                                                                                                                        | 
 
-# Resumen de las Pruebas para la Aplicación BugBank
-
-Para la revisión de la automatización del registro de un usuario, realizado con Selenium y Pytest. Ver el respositositorio: [bug-bank](https://github.com/qaton/bug-bank)
-
-| Tipo                             | Enlace                                                                                                                                         |
+| **Artifacts generates**                                                                                                                                                         |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nombre de la aplicación**      | BugBank                                                                                                                                        |
-| **URL de la aplicación**         | [https://bugbank.netlify.app/](https://bugbank.netlify.app/)                                                                                   |
-| **Repositorio**                  | [https://github.com/jhonatasmatos/bugbank-ui](https://github.com/jhonatasmatos/bugbank-ui)                                                     |
-| **Versión de la aplicación**     | 1.1.2                                                                                                                                          |
-| **Entorno de pruebas**           | Chrome (versión) 1280 x 720                                                                                                                    |
-| | **Artefactos generados**         |                                                                                                                                                 |
-| **Requerimientos de la aplicación** | [Requerimientos-bug-bank](https://docs.google.com/document/d/1HBblIAao1n_0TzyQMQifG4LY3sLbA5R42k8Eeyh9y50/edit?usp=sharing)                                                                                                                |
-| **Reportes de error en Jira**    | [Ver Reportes](https://qaengineer.atlassian.net/issues/?jql=project+%3D+%22QAC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNjk1ZWU0YjFkN2RlNGIyM2EyOTk2NWYwNGU2ZjRlNjEiLCJwIjoiaiJ9) |
+| **Bug reports**                  | [Reports](https://qaengineer.atlassian.net/issues/?jql=project+%3D+%22QAC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNjk1ZWU0YjFkN2RlNGIyM2EyOTk2NWYwNGU2ZjRlNjEiLCJwIjoiaiJ9) |
+| **API review process**           | [Documentation](https://docs.google.com/document/d/12aW2aBBTUo98KmlLUaRZgrwJmze0QOX_TW8W4cJB7Jg/edit) |
 
-🚀
+# BugBank Application Testing Summary
+
+For the review of the automation of user registration, performed with Selenium and Pytest. See the repository: [bug-bank](https://github.com/qaton/bug-bank)
+
+| Type                             | Link                                                                                                                                           |
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| **App name**                     | BugBank                                                                                                                                        |
+| **URL name**                     | [https://bugbank.netlify.app/](https://bugbank.netlify.app/)                                                                                   |
+| **Repository**                   | [https://github.com/jhonatasmatos/bugbank-ui](https://github.com/jhonatasmatos/bugbank-ui)                                                     |
+| **App version**                  | 1.1.2                                                                                                                                          |
+| **Tests environment**            | Chrome (version) 1280 x 720                                                                                                                    |
+
+| **Artifacts generates**          |                                                                                                                                                |
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Application requirements**     | [Bug-bank-requirements](https://docs.google.com/document/d/1HBblIAao1n_0TzyQMQifG4LY3sLbA5R42k8Eeyh9y50/edit?usp=sharing)                                                                                    
+| **Bug reports**                  | [Reports](https://qaengineer.atlassian.net/issues/?jql=project+%3D+%22QAC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNjk1ZWU0YjFkN2RlNGIyM2EyOTk2NWYwNGU2ZjRlNjEiLCJwIjoiaiJ9) |
+
+
