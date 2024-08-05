@@ -43,7 +43,7 @@ Below is a summary of each of the applications evaluated.
 | **Runner**                       | Postman                                                                                                                                        | 
 
 
-| **Artifacts generates**                                                                                                                                                           |
+| **Artifacts generates**          |                                                                                                                                                |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Bug reports**                  | [Reports](https://qaengineer.atlassian.net/issues/?jql=project+%3D+%22QAC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNjk1ZWU0YjFkN2RlNGIyM2EyOTk2NWYwNGU2ZjRlNjEiLCJwIjoiaiJ9) |
 | **API review process**           | [Documentation](https://docs.google.com/document/d/12aW2aBBTUo98KmlLUaRZgrwJmze0QOX_TW8W4cJB7Jg/edit) |
