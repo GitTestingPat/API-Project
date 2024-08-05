@@ -42,6 +42,7 @@ Below is a summary of each of the applications evaluated.
 | **Tests environment**            | [https://fakeapi.platzi.com/](https://fakeapi.platzi.com/)|
 | **Runner**                       | Postman                                                                                                                                        | 
 
+
 | **Artifacts generates**                                                                                                                                                         |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Bug reports**                  | [Reports](https://qaengineer.atlassian.net/issues/?jql=project+%3D+%22QAC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNjk1ZWU0YjFkN2RlNGIyM2EyOTk2NWYwNGU2ZjRlNjEiLCJwIjoiaiJ9) |
@@ -58,6 +59,7 @@ For the review of the automation of user registration, performed with Selenium a
 | **Repository**                   | [https://github.com/jhonatasmatos/bugbank-ui](https://github.com/jhonatasmatos/bugbank-ui)                                                     |
 | **App version**                  | 1.1.2                                                                                                                                          |
 | **Tests environment**            | Chrome (version) 1280 x 720                                                                                                                    |
+
 
 | **Artifacts generates**          |                                                                                                                                                |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
