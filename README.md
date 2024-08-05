@@ -49,8 +49,6 @@ Below is a summary of each of the applications evaluated.
 
 # BugBank Application Testing Summary
 
-For the review of the automation of user registration, performed with Selenium and Pytest. See the repository: [bug-bank](https://github.com/qaton/bug-bank)
-
 | Type                             | Link                                                                                                                                           |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | **App name**                     | BugBank                                                                                                                                        |
