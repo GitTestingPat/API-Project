@@ -9,7 +9,6 @@ Information and test suites can be found at [this link](https://drive.google.com
 
 Below is a summary of each of the applications evaluated.
 
-
 ## Summary of Restful Booker API Tests
 
 | Type                           | Link                                                                                                                                           |
